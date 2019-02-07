@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.miclov" name="Miclov Addons Repo" version="0.1.2" provider-name="mhancoc7">
+<addon id="repository.miclov" name="Miclov Addons Repo" version="0.1.2" provider-name="shinzin">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
@@ -8,10 +8,15 @@
         <checksum>https://raw.githubusercontent.com/Miclov/Release-Repo/master/repo/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/Miclov/Release-Repo/master/repo</datadir>
         <hashes>false</hashes>
+        <dir>
+	        <info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+	        <checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+	        <datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+        </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Kodi Addons</summary>
-        <description>Video addons for Kodi</description>
+        <description>Addons for Kodi</description>
         <platform>all</platform>
     </extension>
 </addon>
