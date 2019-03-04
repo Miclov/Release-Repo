@@ -1,3 +1,9 @@
+V4.0.12
+- Fixed Kodi 18 Python-2/3 cross compatibility issues
+
+V4.0.11
+- Fixed for issue with kodi 18 armV7 on first run/clean intall
+
 V4.0.10
 - Fixed Sports Listing guide due to a site change
 - Changed Kodi version reporting in System Info to reflect test versions of Kodi
