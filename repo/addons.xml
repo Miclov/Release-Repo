@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.program.lt-viewer-szn"
-       version="0.0.1"
+       version="0.0.2"
        name="LT-Viewer"
        provider-name="Shinzin">
     <requires>
@@ -54,7 +54,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.program.indigo" version="4.0.11" name="Indigo" provider-name="tvaddons">
+<addon id="plugin.program.indigo" version="4.0.12" name="Indigo" provider-name="tvaddons">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>
