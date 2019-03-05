@@ -1,5 +1,8 @@
+V4.0.13 
+- Kodi 18 Python-2/3 cross compatibility
+
 V4.0.12
-- Fixed Kodi 18 Python-2/3 cross compatibility issues
+- Fixed compatibility issues
 
 V4.0.11
 - Fixed for issue with kodi 18 armV7 on first run/clean intall
