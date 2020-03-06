@@ -1,3 +1,8 @@
+V4.0.15
+- Fixed Sports Listing guide due to a site change
+- Fixed Speed test due to a site change
+- Fixed Malicious Script Blocker due to Kodi change
+
 V4.0.14 
 - Kodi 18 Python-2/3 cross compatibility
 - Code Cleanup for Backup/Restore
